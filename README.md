@@ -4,7 +4,7 @@
 
 ---
 
-### 💡 Sobre mim
+## Sobre mim
 - 💻 Amo programar em **PHP** (desde os 14 anos)
 - 🚀 Criador do **Lin3A ERP** – Gestão organizada de ponta a ponta
 - 🎥 Produzo conteúdo no **YouTube [@jotapedev](https://www.youtube.com/@jotapedev)** sobre programação
@@ -13,7 +13,7 @@
 
 ---
 
-## 📊 Estatísticas do GitHub
+## <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="25"/> GitHub
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=joaopauloa3&show_icons=true&theme=radical" alt="Estatísticas do GitHub" height="165"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaopauloa3&layout=compact&theme=radical" alt="Linguagens mais usadas" height="165"/>
@@ -21,14 +21,20 @@
 
 ---
 
-## 🔥 Streak
+### 🔥 Streak
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=joaopauloa3&theme=dark" alt="GitHub Streak"/>
 </p>
 
+### 📈Views
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=joaopauloa3&color=blue&style=flat-square&label=VISITAS"/>
+</p>
+
+
 ---
 
-## 🌐 Redes & Projetos
+### 🌐 Redes & Projetos
 <p align="center">
   <a href="https://www.youtube.com/@jotapedev" target="_blank">
     <img src="https://img.shields.io/badge/YouTube-JotapeDev-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
@@ -43,7 +49,7 @@
 
 ---
 
-## ⚡ Tecnologias & Ferramentas
+### ⚡ Tecnologias & Ferramentas
 <p align="center">
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
@@ -52,9 +58,3 @@
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
 </p>
 
----
-
-## 👀 Visualizações
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=joaopauloa3&color=blue&style=flat-square&label=VISITAS"/>
-</p>
