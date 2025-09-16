@@ -1,16 +1,19 @@
-## Hi there 👋
+# 👋 Olá, eu sou o João!
 
-<!--
-**joaopauloa3/joaopauloa3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔹 Desenvolvedor PHP | Futuro Economista | Criador do Lin3A
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📊 Estatísticas do GitHub
+![Estatísticas](https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=radical)
+![Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=radical)
+
+---
+
+## 🔥 Streak
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=SEU_USUARIO&theme=dark)
+
+---
+
+## 👀 Visualizações
+![Profile Views](https://komarev.com/ghpvc/?username=SEU_USUARIO&color=blue)
