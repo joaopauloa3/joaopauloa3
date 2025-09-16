@@ -20,12 +20,6 @@
 </p>
 
 ---
-
-### 🔥 Streak
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=joaopauloa3&theme=dark" alt="GitHub Streak"/>
-</p>
-
 ### 📈Views
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=joaopauloa3&color=blue&style=flat-square&label=VISITAS"/>
